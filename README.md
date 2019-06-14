@@ -57,6 +57,6 @@ This excel file should contain the following columns:
 
 This project produces a slope graph featuring the count of requisitions assigned to each buyer team for each of the first three quarters of the 2019 Fiscal Year, for a total of 12 data points.
 
-<img src='NCAGLIUSO\Desktop\Req Count by Buyer Team by Quarter.png' />
+<img src='Desktop\Req Count by Buyer Team by Quarter.png' />
 
 
